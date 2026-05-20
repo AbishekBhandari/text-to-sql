@@ -1,0 +1,14 @@
+# PowerShell
+@"
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/
+*.log
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+decomposed_output.json
+"@ | Out-File -Encoding UTF8 .gitignore

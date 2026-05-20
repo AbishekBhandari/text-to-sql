@@ -1,0 +1,10 @@
+psycopg2-binary
+python-dotenv
+sqlparse
+fastapi
+uvicorn
+pydantic
+openai
+google-generativeai
+pandas
+streamlit

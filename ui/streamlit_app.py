@@ -23,7 +23,7 @@ if st.button("Run Agent"):
 
     if question:
 
-        with st.spinner("Thinking like SQL expert agent..."):
+        with st.spinner("Thinking like SQL expert agent Please Wait..."):
 
             response = run_agent(question)
 
